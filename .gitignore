@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Generated outputs
+processing_report.txt
+profile_photos_*.zip
+processed_profiles/
+
+# Local test/output folders
+headshots_out/
+headshots_in/
